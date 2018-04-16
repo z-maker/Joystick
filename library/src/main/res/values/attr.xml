@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Joystick">
+        <attr name="stick" format="reference"/>
+        <attr name="stick_bg" format="reference"/>
+        <attr name="stick_size" format="integer"/>
+        <attr name="stick_bg_alpha" format="integer"/>
+        <attr name="stick_alpha" format="integer"/>
+        <attr name="offset" format="integer"/>
+        <attr name="min_distance" format="integer"/>
+        <attr name="invert_y" format="boolean"/>
+        <attr name="full_axis" format="boolean"/>
+    </declare-styleable>
+</resources>
